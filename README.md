@@ -9,7 +9,7 @@
 
 [![NPM version][npm-image]][npm-url] 
 [![NPM downloads][download-image]][download-url]
-<div>
+</div>
 
 
 ## 📦 安装
