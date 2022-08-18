@@ -62,3 +62,4 @@ export { Educations } from './education';
 export { Nations } from './nation';
 export { PoliticTypes } from './politic';
 export { CareerTypes } from './career';
+export { carBrands } from './car';
