@@ -1,6 +1,6 @@
 {
   "name": "@sensoro/dictionary",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "项目中常见的数据字典",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
